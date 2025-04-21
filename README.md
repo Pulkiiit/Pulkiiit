@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on statistics and redis integration.
+Software developer currently exploring the world of machine learning.
 
 
 ## 🌐 Socials:
