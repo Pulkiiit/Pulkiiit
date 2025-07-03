@@ -1,5 +1,5 @@
 # 💫 About Me:
-Software developer currently exploring the world of machine learning.
+Software and Machine Learning Engineer.
 
 
 ## 🌐 Socials:
