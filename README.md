@@ -1,5 +1,5 @@
 # 💫 About Me:
-Software and Machine Learning Engineer.
+Engineer.
 
 
 ## 🌐 Socials:
